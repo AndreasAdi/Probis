@@ -1,0 +1,12 @@
+C:\Users\Andreas\source\repos\Probis\Probis\bin\Debug\Probis.exe.config
+C:\Users\Andreas\source\repos\Probis\Probis\bin\Debug\Probis.exe
+C:\Users\Andreas\source\repos\Probis\Probis\bin\Debug\Probis.pdb
+C:\Users\Andreas\source\repos\Probis\Probis\obj\Debug\Probis.csprojAssemblyReference.cache
+C:\Users\Andreas\source\repos\Probis\Probis\obj\Debug\Probis.Properties.Resources.resources
+C:\Users\Andreas\source\repos\Probis\Probis\obj\Debug\Probis.csproj.GenerateResource.cache
+C:\Users\Andreas\source\repos\Probis\Probis\obj\Debug\Probis.csproj.CoreCompileInputs.cache
+C:\Users\Andreas\source\repos\Probis\Probis\obj\Debug\Probis.exe
+C:\Users\Andreas\source\repos\Probis\Probis\obj\Debug\Probis.pdb
+C:\Users\Andreas\source\repos\Probis\Probis\obj\Debug\Probis.Form_kasir.resources
+C:\Users\Andreas\source\repos\Probis\Probis\obj\Debug\Probis.Login.resources
+C:\Users\Andreas\source\repos\Probis\Probis\obj\Debug\Probis.Register.resources
