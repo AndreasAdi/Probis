@@ -93,8 +93,26 @@
     <Compile Include="add_order.Designer.cs">
       <DependentUpon>add_order.cs</DependentUpon>
     </Compile>
+    <Compile Include="beverage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="beverage.Designer.cs">
+      <DependentUpon>beverage.cs</DependentUpon>
+    </Compile>
     <Compile Include="Button_WOC.cs">
       <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Coffee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Coffee.Designer.cs">
+      <DependentUpon>Coffee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="desert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="desert.Designer.cs">
+      <DependentUpon>desert.cs</DependentUpon>
     </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
@@ -128,8 +146,23 @@
     <Compile Include="Register.Designer.cs">
       <DependentUpon>Register.cs</DependentUpon>
     </Compile>
+    <Compile Include="snack.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="snack.Designer.cs">
+      <DependentUpon>snack.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="add_order.resx">
       <DependentUpon>add_order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="beverage.resx">
+      <DependentUpon>beverage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Coffee.resx">
+      <DependentUpon>Coffee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="desert.resx">
+      <DependentUpon>desert.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -154,6 +187,9 @@
     </Compile>
     <EmbeddedResource Include="Register.resx">
       <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="snack.resx">
+      <DependentUpon>snack.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">

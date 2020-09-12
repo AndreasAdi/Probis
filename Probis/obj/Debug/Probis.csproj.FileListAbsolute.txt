@@ -27,3 +27,9 @@ C:\Users\Andreas\source\repos\Probis\Probis\bin\Debug\JDragControl.dll
 C:\Users\Andreas\source\repos\Probis\Probis\bin\Debug\JGradient Panel.dll
 C:\Users\Andreas\source\repos\Probis\Probis\bin\Debug\JImageButton.dll
 C:\Users\Andreas\source\repos\Probis\Probis\bin\Debug\JThinButton.dll
+C:\Users\Andreas\source\repos\Probis\Probis\obj\Debug\Probis.Coffee.resources
+C:\Users\Andreas\source\repos\Probis\Probis\obj\Debug\Probis.gudang.resources
+C:\Users\Andreas\source\repos\Probis\Probis\obj\Debug\Probis.listorder.resources
+C:\Users\Andreas\source\repos\Probis\Probis\obj\Debug\Probis.beverage.resources
+C:\Users\Andreas\source\repos\Probis\Probis\obj\Debug\Probis.desert.resources
+C:\Users\Andreas\source\repos\Probis\Probis\obj\Debug\Probis.snack.resources
