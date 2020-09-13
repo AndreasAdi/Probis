@@ -14,7 +14,7 @@ namespace Probis
 {
     public partial class Login : Form
     {
-        public string connection = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=F:\Probis\Probis\Cafe.mdf;Integrated Security=True;Connect Timeout=30";
+        public string connection = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Andreas\source\repos\Probis\Probis\Cafe.mdf;Integrated Security=True;Connect Timeout=30";
         SqlConnection conn;
         public Login()
         {
@@ -51,8 +51,8 @@ namespace Probis
                 }
                 else if(dset.Tables[0].Rows[0].ItemArray[3].ToString() == "1")
                 {
-                    listorder L_order = new listorder();
-                    L_order.Show();
+                    Form_kasir kasir = new Form_kasir();
+                    kasir.Show();
                 }
                 else if(dset.Tables[0].Rows[0].ItemArray[3].ToString() == "2")
                 {

@@ -21,20 +21,29 @@ namespace Probis
         {
 
         }
+        private void openform(Form f)
+        {
+            Hide();
+            f.Show();
+            Close();
+        }
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Add Order");
+            openform(new add_order());     
+ 
         }
 
-        private void pictureBox4_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void label1_Click(object sender, EventArgs e)
         {
 
+        }
+
+
+        private void btn_list_order_Click(object sender, EventArgs e)
+        {
+            openform(new listorder());
         }
     }
 }

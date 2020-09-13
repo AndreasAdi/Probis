@@ -62,3 +62,5 @@ F:\Probis\Probis\obj\Debug\Probis.exe
 F:\Probis\Probis\obj\Debug\Probis.pdb
 F:\Probis\Probis\bin\Debug\Cafe.mdf
 F:\Probis\Probis\bin\Debug\Cafe_log.ldf
+C:\Users\Andreas\source\repos\Probis\Probis\bin\Debug\Cafe.mdf
+C:\Users\Andreas\source\repos\Probis\Probis\bin\Debug\Cafe_log.ldf

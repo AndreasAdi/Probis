@@ -59,6 +59,7 @@
             this.btn_list_order.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.btn_list_order.TabIndex = 1;
             this.btn_list_order.TabStop = false;
+            this.btn_list_order.Click += new System.EventHandler(this.btn_list_order_Click);
             // 
             // pictureBox4
             // 
@@ -68,7 +69,6 @@
             this.pictureBox4.Size = new System.Drawing.Size(1938, 96);
             this.pictureBox4.TabIndex = 3;
             this.pictureBox4.TabStop = false;
-            this.pictureBox4.Click += new System.EventHandler(this.pictureBox4_Click);
             // 
             // label_username
             // 
