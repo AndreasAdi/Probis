@@ -10,3 +10,26 @@ C:\Users\Andreas\source\repos\Probis\Probis\obj\Debug\Probis.pdb
 C:\Users\Andreas\source\repos\Probis\Probis\obj\Debug\Probis.Form_kasir.resources
 C:\Users\Andreas\source\repos\Probis\Probis\obj\Debug\Probis.Login.resources
 C:\Users\Andreas\source\repos\Probis\Probis\obj\Debug\Probis.Register.resources
+C:\Users\Andreas\source\repos\Probis\Probis\bin\Debug\ControlzEx.dll
+C:\Users\Andreas\source\repos\Probis\Probis\bin\Debug\JMaterialTextbox.dll
+C:\Users\Andreas\source\repos\Probis\Probis\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Andreas\source\repos\Probis\Probis\bin\Debug\ControlzEx.pdb
+C:\Users\Andreas\source\repos\Probis\Probis\bin\Debug\ControlzEx.xml
+C:\Users\Andreas\source\repos\Probis\Probis\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Andreas\source\repos\Probis\Probis\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Andreas\source\repos\Probis\Probis\obj\Debug\Probis.add_order.resources
+C:\Users\Andreas\source\repos\Probis\Probis\obj\Debug\Probis.csproj.CopyComplete
+C:\Users\Andreas\source\repos\Probis\Probis\bin\Debug\JMetroTextBox.dll
+C:\Users\Andreas\source\repos\Probis\Probis\bin\Debug\JTextBox.dll
+C:\Users\Andreas\source\repos\Probis\Probis\bin\Debug\JTextBox2.dll
+C:\Users\Andreas\source\repos\Probis\Probis\bin\Debug\FlatButton.dll
+C:\Users\Andreas\source\repos\Probis\Probis\bin\Debug\JDragControl.dll
+C:\Users\Andreas\source\repos\Probis\Probis\bin\Debug\JGradient Panel.dll
+C:\Users\Andreas\source\repos\Probis\Probis\bin\Debug\JImageButton.dll
+C:\Users\Andreas\source\repos\Probis\Probis\bin\Debug\JThinButton.dll
+C:\Users\Andreas\source\repos\Probis\Probis\obj\Debug\Probis.Coffee.resources
+C:\Users\Andreas\source\repos\Probis\Probis\obj\Debug\Probis.gudang.resources
+C:\Users\Andreas\source\repos\Probis\Probis\obj\Debug\Probis.listorder.resources
+C:\Users\Andreas\source\repos\Probis\Probis\obj\Debug\Probis.beverage.resources
+C:\Users\Andreas\source\repos\Probis\Probis\obj\Debug\Probis.desert.resources
+C:\Users\Andreas\source\repos\Probis\Probis\obj\Debug\Probis.snack.resources
