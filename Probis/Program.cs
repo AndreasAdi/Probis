@@ -16,7 +16,7 @@ namespace Probis
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new add_order());
+            Application.Run(new Login());
         }
     }
 }
