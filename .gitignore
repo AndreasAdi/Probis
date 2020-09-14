@@ -242,8 +242,8 @@ UpgradeLog*.XML
 UpgradeLog*.htm
 
 # SQL Server files
-Probis\bin\Debug\*.mdf
-Probis\bin\Debug\*.ldf
+*.mdf
+*.ldf
 
 # Business Intelligence projects
 *.rdl.data
