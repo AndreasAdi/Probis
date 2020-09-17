@@ -14,18 +14,20 @@ namespace Probis
 {
     public partial class Login : Form
     {
-        public string connection = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Andreas\source\repos\Probis\Probis\Cafe.mdf;Integrated Security=True;Connect Timeout=30";
+        
+        public string connection = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=" + Application.StartupPath + "\\Cafe.mdf;Integrated Security=True;Connect Timeout=30";
         SqlConnection conn;
         public Login()
         {
             InitializeComponent();
             conn = new SqlConnection(connection);
+            MessageBox.Show(connection);
             conn.Open();
-            if (conn.State==ConnectionState.Open)
+            if (conn.State == ConnectionState.Open)
             {
                 MessageBox.Show("open");
             }
-            
+
         }
 
         private void label1_Click(object sender, EventArgs e)

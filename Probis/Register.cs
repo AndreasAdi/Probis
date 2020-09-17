@@ -14,7 +14,7 @@ namespace Probis
 {
     public partial class Register : Form
     {
-        public string connection = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=F:\Probis\Probis\Cafe.mdf;Integrated Security=True;Connect Timeout=30";
+        public string connection = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=" + Application.StartupPath + "\\Cafe.mdf;Integrated Security=True;Connect Timeout=30";
         SqlConnection conn;
         public Register()
         {
