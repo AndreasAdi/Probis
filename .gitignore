@@ -70,15 +70,15 @@ Thumbs.db
 *.userprefs
 
 # Build results
-[Dd]ebug/
+Debug/
 [Dd]ebugPublic/
-[Rr]elease/
+Release/
 [Rr]eleases/
 x64/
 x86/
 build/
 bld/
-[Bb]in/
+Bin/
 [Oo]bj/
 
 # Visual Studo 2015 cache/options directory
