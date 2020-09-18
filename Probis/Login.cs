@@ -20,8 +20,8 @@ namespace Probis
         public Login()
         {
             InitializeComponent();
-            conn = new SqlConnection(connection);
-            MessageBox.Show(connection);
+           conn = new SqlConnection(connection);
+           // MessageBox.Show(connection);
             conn.Open();
             if (conn.State == ConnectionState.Open)
             {
