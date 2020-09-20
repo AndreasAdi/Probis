@@ -40,10 +40,11 @@
             this.panel2 = new System.Windows.Forms.Panel();
             this.panel3 = new System.Windows.Forms.Panel();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.label1 = new System.Windows.Forms.Label();
             this.Nama_menu = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.QTY = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Price = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.label1 = new System.Windows.Forms.Label();
+            this.lbl_total = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.panel3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
@@ -251,6 +252,7 @@
             // 
             this.panel3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.panel3.Controls.Add(this.lbl_total);
             this.panel3.Controls.Add(this.dataGridView1);
             this.panel3.Controls.Add(this.label1);
             this.panel3.Location = new System.Drawing.Point(1101, 86);
@@ -273,18 +275,8 @@
             this.dataGridView1.ReadOnly = true;
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(416, 488);
+            this.dataGridView1.Size = new System.Drawing.Size(416, 428);
             this.dataGridView1.TabIndex = 14;
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(176, 17);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(116, 32);
-            this.label1.TabIndex = 12;
-            this.label1.Text = "ORDER";
             // 
             // Nama_menu
             // 
@@ -306,6 +298,26 @@
             this.Price.MinimumWidth = 6;
             this.Price.Name = "Price";
             this.Price.ReadOnly = true;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(176, 17);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(116, 32);
+            this.label1.TabIndex = 12;
+            this.label1.Text = "ORDER";
+            // 
+            // lbl_total
+            // 
+            this.lbl_total.AutoSize = true;
+            this.lbl_total.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_total.Location = new System.Drawing.Point(26, 530);
+            this.lbl_total.Name = "lbl_total";
+            this.lbl_total.Size = new System.Drawing.Size(173, 39);
+            this.lbl_total.TabIndex = 15;
+            this.lbl_total.Text = "Total : Rp ";
             // 
             // add_order
             // 
@@ -344,5 +356,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Nama_menu;
         private System.Windows.Forms.DataGridViewTextBoxColumn QTY;
         private System.Windows.Forms.DataGridViewTextBoxColumn Price;
+        private System.Windows.Forms.Label lbl_total;
     }
 }

@@ -89,3 +89,4 @@ C:\Probis\Probis\obj\Debug\Probis.pdb
 C:\Probis\Probis\bin\Debug\Probis.exe.config
 C:\Probis\Probis\bin\Debug\Probis.exe
 C:\Probis\Probis\bin\Debug\Probis.pdb
+C:\Users\Andreas\source\repos\Probis\Probis\obj\Debug\Probis.add_stock.resources
