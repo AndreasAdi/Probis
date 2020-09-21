@@ -361,3 +361,6 @@ MigrationBackup/
 Probis/bin/Debug/Cafe.mdf
 *.ldf
 *.mdf
+Probis/bin
+Probis/obj
+
