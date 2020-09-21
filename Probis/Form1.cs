@@ -15,6 +15,7 @@ namespace Probis
         public Form_kasir()
         {
             InitializeComponent();
+            
         }
 
         private void Form1_Load(object sender, EventArgs e)
